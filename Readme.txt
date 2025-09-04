@@ -1,8 +1,3 @@
-   24  git branch -M main
-   25  git push -u origin main
-   26  git pull origin main --rebase
-   27  git push -u origin main
-   28  git checkout -b Ken_Branch1
    29  git add Profile.txt
    30  nano Profile.txt
    31  git push -u origin Ken_Branch1
@@ -498,3 +493,8 @@
   521  for file in *; do  if [ "$file" != "Profile.txt" ]; then  if [ "$file" != "Background.txt" ]; then    > "$file";  fi; done
   522  for file in *; do  if [ "$file" != "Background.txt" ]; then    > "$file";  fi; done
   523  history > Readme.txt
+  524  git add .
+  525  git commit -m "Updated Readme.txt and Cleared all files except Background.txt in Ken_Branch3"
+  526  git push -u origin Ken_Branch3
+  527  git rm -r Test.py
+  528  history > Readme.txt
