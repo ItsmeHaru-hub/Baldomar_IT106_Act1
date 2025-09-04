@@ -999,3 +999,24 @@
   506  git commit -m "Cleared all files except Education.txt in Ken_Branch2"
   507  git push -u origin Ken_Branch2
   508  history > Readme.txt
+  508  history > Readme.txt
+  509  git add .
+  510  git add Readme.txt
+  511  git commit -m "Updated Readme.txt"
+  512  git push -u origin Ken_Branch2
+  513  git checkout main
+  514  git checkout -b Ken_Branch3
+  515  git add .
+  516  nano Background.txt
+  517  git add Background.txt
+  518  git commit -m "Updated Background.txt"
+  519  git push -u origin Ken_Branch3
+  520  for file *; do
+  521  for file in *; do  if [ "$file" != "Profile.txt" ]; then  if [ "$file" != "Background.txt" ]; then    > "$file";  fi; done
+  522  for file in *; do  if [ "$file" != "Background.txt" ]; then    > "$file";  fi; done
+  523  history > Readme.txt
+  524  git add .
+  525  git commit -m "Updated Readme.txt and Cleared all files except Background.txt in Ken_Branch3"
+  526  git push -u origin Ken_Branch3
+  527  git rm -r Test.py
+  528  history > Readme.txt
