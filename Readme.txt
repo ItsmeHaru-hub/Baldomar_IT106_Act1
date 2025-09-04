@@ -1,10 +1,3 @@
-   37  git remote add origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   38  [200~git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   39  git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   40  git add .
-   41  git commit -m "Initial commit with all files"
-   42  git branch -M main
-   43  git push -u origin main
    44  git pull origin main --rebase
    45  git push -u origin main
    46  git pull origin main --rebase
@@ -498,3 +491,10 @@
   534  git checkout -b Ken_Branch4
   535  git rm -r Test.py
   536  history > Readme.txt
+  537  git add .
+  538  git add Readme.txt
+  539  git commit -m "Deleted Test.py and Updated Readme.txt"
+  540  git push -u origin Ken_Branch4
+  541  for file in *; do  if [ "$file" != "Readme.txt" ]; then    > "$file";  fi; done
+  542  git add .
+  543  history > Readme.txt
