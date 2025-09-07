@@ -1,500 +1,500 @@
-   11  git remote add origin https://github.com/itsmeHaru-hub/CallmeKen.git
-   12  git remote -v
-   13  git pull origin main
-   14  git checkout -b Ken_Branch1
-   15  git add.
-   16  git add .
-   17  echo "" > "Profile.txt"
-   18  echo "" > "Education.txt"
-   19  exit
-   20  cd desktop
-   21  cd IT120
-   22  exit
-   23  cd desktop
-   24  cd Ken_IT120_Act1
-   25  git init
-   26  touch Profile.txt Education.txt Background.txt Readme.txt Text.py
-   27  git remote add origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   28  git add .
-   29  git commit -m "Initial commits with all files"
-   30  git branch -m main
-   31  git push -u origin main
-   32  git push -u origin main
-   33  git remote -v
-   34  git add .
-   35  git commit -m "Initial commit with all files"
-   36  git branch main
-   37  git remote add origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   38  git checkout -b Ken_Branch1
-   39  git add Profile.txt
-   40  nano Profile.txt
-   41  git commit -m "Updated Profile.txt"
-   42  git push -u origin Ken_Branch1
-   43  cat Profile.txt
-   44  git add .
-   45  git commit -m "Initial commit with al files"
-   46  git branch -M main
-   47  git push -u origin main
-   48  git pull origin main --rebase
-   49  git push -u origin main
-   50  git checkout -b Ken_Branch1
-   51  git add Profile.txt
-   52  nano Profile.txt
-   53  git push -u origin Ken_Branch1
-   54  exit
-   55  cd desktop
-   56  cd Ken_IT120_Act1
-   57  git init
-   58  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
-   59  git remote add origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   60  [200~git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   61  git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-   62  git add .
-   63  git commit -m "Initial commit with all files"
-   64  git branch -M main
-   65  git push -u origin main
-   66  git pull origin main --rebase
-   67  git push -u origin main
-   68  git pull origin main --rebase
-   69  remote -v
-   70  git status
-   71  [200~git push -u origin main --force
-   72  git push -u origin main --force
-   73  git push -u origin main
-   74  git checkout -b Ken_Branch1
-   75  git add Profile.txt
-   76  nano Profile.txt
-   77  git commit -m "Updated Profile.txt"
-   78  git push -u origin Ken_Branch1
-   79  git init
-   80  -b
-   81  git -b
-   82  exit
-   83  cd
-   84  cd desktop
-   85  cd Ken_IT120_Act1
-   86  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
-   87  git remote add origin https://github.com/Itsme_Haru-hub/Baldomar_IT120_Act1.git
-   88  remote -v
-   89  git add .
-   90  cd
-   91  cd desktop
-   92  cd Ken_IT120_Act1
-   93  git init
-   94  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
-   95  git remote add origin https://github.com/Itsme_Haru-hub/Baldomar_IT120_Act1.git
+   41  git branch bdo landbank * main
+   42  cd desktop
+   43  cd IT120
+   44  git status
+   45  cd desktop
+   46  cd IT120
+   47  touch init.txt
+   48  flutter doctor
+   49  flutter nurse
+   50  flutter surgeon
+   51  flutter doctor
+   52  cd cooloolapp
+   53  cd coolapp
+   54  cd flutter
+   55  flutter create myapp
+   56  flutter run
+   57  cd IT120
+   58  cd desktop
+   59  cd IT120
+   60  git remote -v
+   61  git init
+   62  git remote -v
+   63  git remote add origin https://github.com/itsmeHaru-hub/CallmeKen.git
+   64  git remote -v
+   65  git pull origin main
+   66  git checkout -b Ken_Branch1
+   67  git add.
+   68  git add .
+   69  echo "" > "Profile.txt"
+   70  echo "" > "Education.txt"
+   71  exit
+   72  cd desktop
+   73  cd IT120
+   74  exit
+   75  cd desktop
+   76  cd Ken_IT120_Act1
+   77  git init
+   78  touch Profile.txt Education.txt Background.txt Readme.txt Text.py
+   79  git remote add origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
+   80  git add .
+   81  git commit -m "Initial commits with all files"
+   82  git branch -m main
+   83  git push -u origin main
+   84  git push -u origin main
+   85  git remote -v
+   86  git add .
+   87  git commit -m "Initial commit with all files"
+   88  git branch main
+   89  git remote add origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
+   90  git checkout -b Ken_Branch1
+   91  git add Profile.txt
+   92  nano Profile.txt
+   93  git commit -m "Updated Profile.txt"
+   94  git push -u origin Ken_Branch1
+   95  cat Profile.txt
    96  git add .
-   97  git commit -m "Initial commit with all files"
+   97  git commit -m "Initial commit with al files"
    98  git branch -M main
    99  git push -u origin main
-  100  git branch
-  101  git branch -M main
-  102  git push -u origin main
-  103  git checkout -b Ken_Branch1
+  100  git pull origin main --rebase
+  101  git push -u origin main
+  102  git checkout -b Ken_Branch1
+  103  git add Profile.txt
   104  nano Profile.txt
-  105  git add Profile.txt
-  106  git commit -m "Updated Profile.txt"
-  107  git push -u origin Ken_Branch1
-  108  git push -u origin Ken_Branch1
-  109  git branch
-  110  git push -u origin Ken_Branch1
-  111  git branch -M Ken_Branch1
-  112  git push -u origin Ken_Branch1
-  113  git remote -v
-  114  git commit -m "Initial commit"
-  115  git add .
-  116  git add Profile.txt
-  117  git commit -m "Updated Profile.txt"
-  118  git push -u origin Ken_branch1
-  119  git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
-  120  git remote -v
-  121  git push -u origin Ken_Branch1
-  122  git checkout main
-  123  git checkout -b Ken_Branch2
-  124  nano Education.txt
-  125  git add Education.txt
-  126  git commit -m "Updated Education.txt"
-  127  git push -u origin Ken_Branch2
-  128  git checkout main
-  129  git checkout -b Ken_Branch3
-  130  nano Background.txt
-  131  git add Background.txt
-  132  git commit -m "Updated Background.txt"
-  133  git push -u origin Ken_Branch3
-  134  git checkout main
-  135  git checkout Readme.txt
-  136  rm Text.py
-  137  git checkout main
-  138  git checkout Ken_Branch3
-  139  git rm Test.py
-  140  git commit - m "Updated Background.txt and removed Test.py"
-  141  git push -u origin Ken_Branch3
-  142  rm Test.py
-  143  git rm Test.py
-  144  git commit -m "Updated Backgrount.txt and removed Test.py"
-  145  git push -u origin Ken_Branch3
-  146  git checkout main
-  147  git checkout Ken_Branch4
-  148  git checkout -b Ken_Branch4
-  149  rm Text.py
-  150  git add Readme.txt
-  151  git rm Test.py
-  152  git commit -m "Updated Readme.txt and removed Test.py"
-  153  git push -u origin Ken_Branch4
-  154  git checkout main
-  155  git add .
-  156  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
-  157  git commit -m "Updated Profile.txt Education.txt Background.txt Readme.txt Test.py"
-  158  git push -u origin main
-  159  git branch
-  160  git branch main
-  161  git add .
-  162  git branch
-  163  git checkout main1
-  164  git checkout -b main
-  165  git branch -u main
-  166  git branch -u origin
-  167  git branch -u origin/main
-  168  git checkout Ken_Branch1
-  169  git checkout main1
-  170  git checkout -b main
-  171  git checkout main1
-  172  git checkout main
-  173  git checkout -b Baldomar_IT120_Act1
-  174  git add .
-  175  git add Profile.txt Education.txt Backgroun.txt Readme.txt Test.py
-  176  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
-  177  git commit -m "Updated Profile.txt Education.txt Backgroun.txt Readme.txt Test.py"
-  178  git commit -m "Updated Profile.txt"
-  179  git push -u origin Baldomar_IT120_Act1
-  180  git add .
-  181  nano Profile.txt
-  182  nano Education.txt
-  183  nano Background.txt
-  184  nano Readme.txt
-  185  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
-  186  git commit -m "Updated Profile.txt Education.txt Background.txt Readme.txt Test.py"
-  187  git push -u origin Baldomar_It120_Act1
-  188  git push -u origin Baldomar_IT120_Act1
+  105  git push -u origin Ken_Branch1
+  106  exit
+  107  cd desktop
+  108  cd Ken_IT120_Act1
+  109  git init
+  110  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
+  111  git remote add origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
+  112  [200~git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
+  113  git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
+  114  git add .
+  115  git commit -m "Initial commit with all files"
+  116  git branch -M main
+  117  git push -u origin main
+  118  git pull origin main --rebase
+  119  git push -u origin main
+  120  git pull origin main --rebase
+  121  remote -v
+  122  git status
+  123  [200~git push -u origin main --force
+  124  git push -u origin main --force
+  125  git push -u origin main
+  126  git checkout -b Ken_Branch1
+  127  git add Profile.txt
+  128  nano Profile.txt
+  129  git commit -m "Updated Profile.txt"
+  130  git push -u origin Ken_Branch1
+  131  git init
+  132  -b
+  133  git -b
+  134  exit
+  135  cd
+  136  cd desktop
+  137  cd Ken_IT120_Act1
+  138  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
+  139  git remote add origin https://github.com/Itsme_Haru-hub/Baldomar_IT120_Act1.git
+  140  remote -v
+  141  git add .
+  142  cd
+  143  cd desktop
+  144  cd Ken_IT120_Act1
+  145  git init
+  146  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
+  147  git remote add origin https://github.com/Itsme_Haru-hub/Baldomar_IT120_Act1.git
+  148  git add .
+  149  git commit -m "Initial commit with all files"
+  150  git branch -M main
+  151  git push -u origin main
+  152  git branch
+  153  git branch -M main
+  154  git push -u origin main
+  155  git checkout -b Ken_Branch1
+  156  nano Profile.txt
+  157  git add Profile.txt
+  158  git commit -m "Updated Profile.txt"
+  159  git push -u origin Ken_Branch1
+  160  git push -u origin Ken_Branch1
+  161  git branch
+  162  git push -u origin Ken_Branch1
+  163  git branch -M Ken_Branch1
+  164  git push -u origin Ken_Branch1
+  165  git remote -v
+  166  git commit -m "Initial commit"
+  167  git add .
+  168  git add Profile.txt
+  169  git commit -m "Updated Profile.txt"
+  170  git push -u origin Ken_branch1
+  171  git remote set-url origin https://github.com/itsmeHaru-hub/Baldomar_IT120_Act1.git
+  172  git remote -v
+  173  git push -u origin Ken_Branch1
+  174  git checkout main
+  175  git checkout -b Ken_Branch2
+  176  nano Education.txt
+  177  git add Education.txt
+  178  git commit -m "Updated Education.txt"
+  179  git push -u origin Ken_Branch2
+  180  git checkout main
+  181  git checkout -b Ken_Branch3
+  182  nano Background.txt
+  183  git add Background.txt
+  184  git commit -m "Updated Background.txt"
+  185  git push -u origin Ken_Branch3
+  186  git checkout main
+  187  git checkout Readme.txt
+  188  rm Text.py
   189  git checkout main
-  190  git checkout Ken_Branch1
-  191  nano Profile.txt
-  192  git add Profile.txt
-  193  git commit -m "Updated Profile.txt"
-  194  git push -u origin Ken_Branch1
-  195  git checkout main
-  196  git checkout Ken_Branch2
-  197  nano Education.txt
-  198  git add Education.txt
-  199  git commit -m "Updated Education.txt"
-  200  git push -u origin Ken_Branch2
-  201  git checkout main
-  202  git checkout Ken_Branch3
-  203  nano Background.txt
-  204  git add Background.txt
-  205  git commit -m "Updated Background.txt"
-  206  git push -u origin Ken_Branch3
-  207  git checkout main
-  208  git checkout Ken_Branch4
-  209  nano Readme.txt
-  210  nano Readme.txt
-  211  git branch -d Readme.txt
-  212  git rm Readme.txt
-  213  git commit -m "Deleted Readme.txt"
-  214  git push -u origin Ken_Branch4
-  215  git checkout main
-  216  git commit -m "Updated Readme.txt"
-  217  git add .
-  218  git add Readme.txt
-  219  git commit -m "Updated Readme.txt"
-  220  git push -u origin Ken_Branch4
-  221  git checkout main
-  222  git checkout -d Ken_Branch4
-  223  git checkout main
-  224  git branch -D Ken_Branch4
-  225  git checkout -b Ken_Branch4
+  190  git checkout Ken_Branch3
+  191  git rm Test.py
+  192  git commit - m "Updated Background.txt and removed Test.py"
+  193  git push -u origin Ken_Branch3
+  194  rm Test.py
+  195  git rm Test.py
+  196  git commit -m "Updated Backgrount.txt and removed Test.py"
+  197  git push -u origin Ken_Branch3
+  198  git checkout main
+  199  git checkout Ken_Branch4
+  200  git checkout -b Ken_Branch4
+  201  rm Text.py
+  202  git add Readme.txt
+  203  git rm Test.py
+  204  git commit -m "Updated Readme.txt and removed Test.py"
+  205  git push -u origin Ken_Branch4
+  206  git checkout main
+  207  git add .
+  208  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
+  209  git commit -m "Updated Profile.txt Education.txt Background.txt Readme.txt Test.py"
+  210  git push -u origin main
+  211  git branch
+  212  git branch main
+  213  git add .
+  214  git branch
+  215  git checkout main1
+  216  git checkout -b main
+  217  git branch -u main
+  218  git branch -u origin
+  219  git branch -u origin/main
+  220  git checkout Ken_Branch1
+  221  git checkout main1
+  222  git checkout -b main
+  223  git checkout main1
+  224  git checkout main
+  225  git checkout -b Baldomar_IT120_Act1
   226  git add .
-  227  nano Readme.txt
-  228   HEAD position was c42a45a Updated Readme.txt
-  229  Switched to branch 'main'
-  230  CallmeKen@DESKTOP-T6PO5SV MINGW64 ~/desktop/Ken_IT120_Act1 (main)
-  231  $ git branch -D Ken_Branch4
-  232  Deleted branch Ken_Branch4 (was c42a45a).
-  233  CallmeKen@DESKTOP-T6PO5SV MINGW64 ~/desktop/Ken_IT120_Act1 (main)
-  234  $ git checkout -b Ken_Branch4
-  235  Switched to a new branch 'Ken_Branch4'
-  236  CallmeKen@DESKTOP-T6PO5SV MINGW64 ~/desktop/Ken_IT120_Act1 (Ken_Branch4)
-  237  $ git add .
-  238  nano Readme.txt
-  239  git commit -m "Updated Readme.txt"
-  240  git push -u origin Ken_Branch4
+  227  git add Profile.txt Education.txt Backgroun.txt Readme.txt Test.py
+  228  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
+  229  git commit -m "Updated Profile.txt Education.txt Backgroun.txt Readme.txt Test.py"
+  230  git commit -m "Updated Profile.txt"
+  231  git push -u origin Baldomar_IT120_Act1
+  232  git add .
+  233  nano Profile.txt
+  234  nano Education.txt
+  235  nano Background.txt
+  236  nano Readme.txt
+  237  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
+  238  git commit -m "Updated Profile.txt Education.txt Background.txt Readme.txt Test.py"
+  239  git push -u origin Baldomar_It120_Act1
+  240  git push -u origin Baldomar_IT120_Act1
   241  git checkout main
-  242  exit
-  243  cd
-  244  cd desktop
-  245  cd Ken_IT120_Act1
-  246  git checkout main
-  247  git pull origin main
-  248  git merge Ken_Branch1
-  249  git push origin main
-  250  checkout main
-  251  git checkout Baldomar_IT120_Act1
-  252  git push origin -u main
-  253  git push -u origin main
-  254  xit
-  255  exit
-  256  cd desktop
-  257  cd Ken_IT120_Act1
-  258  git checkout main
-  259  git pull origin main
-  260  git pull origin main --allow-unrelated-histories
-  261  cd ~/desktop/Ken_IT120_Act1
-  262  git merge Ken_Branch1
-  263  git status
-  264  git add Readme.txt
-  265  git commit
-  266  git add .
-  267  git push origin main
-  268  git merger Ken_Branch1
-  269  git merge Ken_Branch1
-  270  git push origin main
-  271  git merger Ken_Branch2
-  272  git merge Ken_Branch2
-  273  git merge Ken_Branch3
-  274  git merge Ken_Branch4
-  275  git push origin main
-  276  git merge Baldomar_IT120_Act1
-  277  git add Profile.txt Education.txt Background.txt Readme.txt
-  278  git commit
-  279  git push origin main
-  280  git merge Ken_Branch1
-  281  git push origin main
-  282  exit
-  283  cd desktop
-  284  cd Ken_IT120_Act1
-  285  git add .
-  286  git push -u origin main
-  287  git remote -v
-  288  git pull origin main
-  289  git commit -m "Initial commit with all files"
-  290  git add .
-  291  git branch -M main
-  292  git push -u origin main
-  293  git push origin main --force
-  294  git rm -r *
-  295  git commit -m "Deleted all files"
-  296  git push origin main
-  297  nano Profile.txt
-  298  git checkout master
-  299  mkdir master
-  300  echo "This is the master folder" > master/Readme.md
-  301  git add master
-  302  git commit -m "Created master folder with Readme.md"
-  303  git push origin main
-  304  git mv master Baldomar_Master_Act1
-  305  git commit -m "Renamed master folder to Baldomar_Master_Act1"
-  306  git push origin main
-  307  git checkout Baldomar_Master_Act1
-  308  git checkout master
-  309  cd master
-  310  git checkout -b Baldomar_IT120_Act1
-  311  git checkout -b Baldomar_IT120_ACT1
-  312  cd documents
-  313  cd Ken_IT120
-  314  git init
-  315  touch Profile.txt Education.txt Background.txt Readme.txt
-  316  git init
-  317  exit
-  318  cd Documents
-  319  cd Ken_IT120
-  320  git init
-  321  cd Desktop
-  322  exit
-  323  cd Desktop
-  324  cd Ken_IT120
-  325  git mv master Baldomar_IT120_Act1
-  326  git init
-  327  touch Profile.txt Education.txt Background.txt Readme.txt
-  328  echo 'import os/nprint("Hello World")' > Test.py
-  329  nano Profile.txt
-  330  nano Education.txt
-  331  nano Background.txt
-  332  git add .
-  333  git remote add origin Https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
-  334  git add .
-  335  git commit -m "Initial commit with all files"
-  336  script -a Readme.txt
-  337  echo "git checkout -b Ken_IT120" >> Readme.txt
-  338  git add Readme.txt
-  339  git commit -m "Recorded command: git checkout -b Ken_IT120"
-  340  git add .
+  242  git checkout Ken_Branch1
+  243  nano Profile.txt
+  244  git add Profile.txt
+  245  git commit -m "Updated Profile.txt"
+  246  git push -u origin Ken_Branch1
+  247  git checkout main
+  248  git checkout Ken_Branch2
+  249  nano Education.txt
+  250  git add Education.txt
+  251  git commit -m "Updated Education.txt"
+  252  git push -u origin Ken_Branch2
+  253  git checkout main
+  254  git checkout Ken_Branch3
+  255  nano Background.txt
+  256  git add Background.txt
+  257  git commit -m "Updated Background.txt"
+  258  git push -u origin Ken_Branch3
+  259  git checkout main
+  260  git checkout Ken_Branch4
+  261  nano Readme.txt
+  262  nano Readme.txt
+  263  git branch -d Readme.txt
+  264  git rm Readme.txt
+  265  git commit -m "Deleted Readme.txt"
+  266  git push -u origin Ken_Branch4
+  267  git checkout main
+  268  git commit -m "Updated Readme.txt"
+  269  git add .
+  270  git add Readme.txt
+  271  git commit -m "Updated Readme.txt"
+  272  git push -u origin Ken_Branch4
+  273  git checkout main
+  274  git checkout -d Ken_Branch4
+  275  git checkout main
+  276  git branch -D Ken_Branch4
+  277  git checkout -b Ken_Branch4
+  278  git add .
+  279  nano Readme.txt
+  280   HEAD position was c42a45a Updated Readme.txt
+  281  Switched to branch 'main'
+  282  CallmeKen@DESKTOP-T6PO5SV MINGW64 ~/desktop/Ken_IT120_Act1 (main)
+  283  $ git branch -D Ken_Branch4
+  284  Deleted branch Ken_Branch4 (was c42a45a).
+  285  CallmeKen@DESKTOP-T6PO5SV MINGW64 ~/desktop/Ken_IT120_Act1 (main)
+  286  $ git checkout -b Ken_Branch4
+  287  Switched to a new branch 'Ken_Branch4'
+  288  CallmeKen@DESKTOP-T6PO5SV MINGW64 ~/desktop/Ken_IT120_Act1 (Ken_Branch4)
+  289  $ git add .
+  290  nano Readme.txt
+  291  git commit -m "Updated Readme.txt"
+  292  git push -u origin Ken_Branch4
+  293  git checkout main
+  294  exit
+  295  cd
+  296  cd desktop
+  297  cd Ken_IT120_Act1
+  298  git checkout main
+  299  git pull origin main
+  300  git merge Ken_Branch1
+  301  git push origin main
+  302  checkout main
+  303  git checkout Baldomar_IT120_Act1
+  304  git push origin -u main
+  305  git push -u origin main
+  306  xit
+  307  exit
+  308  cd desktop
+  309  cd Ken_IT120_Act1
+  310  git checkout main
+  311  git pull origin main
+  312  git pull origin main --allow-unrelated-histories
+  313  cd ~/desktop/Ken_IT120_Act1
+  314  git merge Ken_Branch1
+  315  git status
+  316  git add Readme.txt
+  317  git commit
+  318  git add .
+  319  git push origin main
+  320  git merger Ken_Branch1
+  321  git merge Ken_Branch1
+  322  git push origin main
+  323  git merger Ken_Branch2
+  324  git merge Ken_Branch2
+  325  git merge Ken_Branch3
+  326  git merge Ken_Branch4
+  327  git push origin main
+  328  git merge Baldomar_IT120_Act1
+  329  git add Profile.txt Education.txt Background.txt Readme.txt
+  330  git commit
+  331  git push origin main
+  332  git merge Ken_Branch1
+  333  git push origin main
+  334  exit
+  335  cd desktop
+  336  cd Ken_IT120_Act1
+  337  git add .
+  338  git push -u origin main
+  339  git remote -v
+  340  git pull origin main
   341  git commit -m "Initial commit with all files"
-  342  git push -u origin main
-  343  git checkout main
-  344  git push origin master
-  345  git chekout -b main
-  346  git checkout -b main
-  347  git add .
-  348  git commit -m "Initial commit with all files"
-  349  git push origin main
-  350  git remote -v
-  351  git push origin main --force
-  352  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
-  353  git remote set-url origin https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
-  354  git remote -v
+  342  git add .
+  343  git branch -M main
+  344  git push -u origin main
+  345  git push origin main --force
+  346  git rm -r *
+  347  git commit -m "Deleted all files"
+  348  git push origin main
+  349  nano Profile.txt
+  350  git checkout master
+  351  mkdir master
+  352  echo "This is the master folder" > master/Readme.md
+  353  git add master
+  354  git commit -m "Created master folder with Readme.md"
   355  git push origin main
-  356  git push origin main --force
-  357  git push origin main
-  358  git checkout -b Ken_B1
-  359  nano Profile.txt
-  360  git add .
-  361  nano Profile.txt
-  362  git add Profile.txt
-  363  git commit -m "Updated Profile.txt"
-  364  git push origin Ken_B1
-  365  nano Profile.txt
-  366  git add .
-  367  git add Profile.txt
-  368  git commit -m "Updated Profile.txt"
-  369  git push origin Ken_B1
-  370  git mr -r Ken_B1 *
-  371  git rm -r Ken_B1 *
-  372  git branch -d Ken_B1
-  373  git push origin --delete Ken_B1
-  374  git checkout main
-  375  git add .
-  376  git commit -m
-  377  git commit -m "Initial commit with all files"
-  378  git checkout -b Baldomar_IT120_Act1
-  379  git add . 
-  380  git commit -m "Initial commit with all files"
-  381  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
-  382  git commit -m "Initial commit with all files"
-  383  git psuh -u origin Baldomar_IT120_Act1
-  384  git push -u origin Baldomar_IT120_Act1
-  385  git checkout main
+  356  git mv master Baldomar_Master_Act1
+  357  git commit -m "Renamed master folder to Baldomar_Master_Act1"
+  358  git push origin main
+  359  git checkout Baldomar_Master_Act1
+  360  git checkout master
+  361  cd master
+  362  git checkout -b Baldomar_IT120_Act1
+  363  git checkout -b Baldomar_IT120_ACT1
+  364  cd documents
+  365  cd Ken_IT120
+  366  git init
+  367  touch Profile.txt Education.txt Background.txt Readme.txt
+  368  git init
+  369  exit
+  370  cd Documents
+  371  cd Ken_IT120
+  372  git init
+  373  cd Desktop
+  374  exit
+  375  cd Desktop
+  376  cd Ken_IT120
+  377  git mv master Baldomar_IT120_Act1
+  378  git init
+  379  touch Profile.txt Education.txt Background.txt Readme.txt
+  380  echo 'import os/nprint("Hello World")' > Test.py
+  381  nano Profile.txt
+  382  nano Education.txt
+  383  nano Background.txt
+  384  git add .
+  385  git remote add origin Https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
   386  git add .
-  387  git branch -M main
-  388  git push -u origin main
-  389  git checkout -b Ken_B1
-  390  git checkout -b Ken_Branch1
-  391  git add .
-  392  git add Profile.txt
-  393  nano Profile.txt
-  394  git commit -m "Updated Profile.txt"
-  395  git push -u origin Ken_Branch1
-  396  git push origin --delete Ken_Branch1
-  397  git checkout main
-  398  git push origin --delete Ken_Branch1
-  399  git pull origin main
-  400  git merge Ken_Branch1
+  387  git commit -m "Initial commit with all files"
+  388  script -a Readme.txt
+  389  echo "git checkout -b Ken_IT120" >> Readme.txt
+  390  git add Readme.txt
+  391  git commit -m "Recorded command: git checkout -b Ken_IT120"
+  392  git add .
+  393  git commit -m "Initial commit with all files"
+  394  git push -u origin main
+  395  git checkout main
+  396  git push origin master
+  397  git chekout -b main
+  398  git checkout -b main
+  399  git add .
+  400  git commit -m "Initial commit with all files"
   401  git push origin main
-  402  cd desktop
-  403  cd Ken_IT120
-  404  cd Ken_IT120_Act1
-  405  git init
-  406  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
-  407  nano Profile.txt
-  408  nano Education.txt
-  409  Background.txt
-  410  nano Background.txt
-  411  script -f Readme.txt
-  412  nano Test.py
-  413  git add .
-  414  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
-  415  git remote -v
-  416  git add .
-  417  git commit -m "Initial commit with all files"
-  418  git branch -M main
-  419  git push -u origin main
-  420  git push origin main --force
-  421  git push -u origin main
-  422  git add .
-  423  git commit -m "Initial commit with all files"
-  424  git push -u origin main
-  425  history > Readme.txt
-  426  git add .
-  427  git commit -m "Initial commit with all files"
-  428  git push -u origin main
-  429  git checkout Baldomar_IT120_Act1
-  430  git checkout -b Ken_Branch1
-  431  nano Profile.txt
-  432  git add Profile.txt
-  433  git commit -m "Updated Profile.txt"
-  434  git push -u origin Ken_Branch1
-  435  git push origin Ken_Branch1
-  436  find . -type f ! -name 'Profile.txt' -exec sh -c '> "$0"' {} \;
-  437  git checkout Ken_Branch1
-  438  git checkout Ken_Branch1
-  439  git checkout -b Ken_Branch1
-  440  nano Profile.txt
-  441  git add Profile.txt
-  442  git commit -m "Updated Profile.txt"
-  443  git push origin Ken_Branch1
-  444  git push -u origin Ken_Branch1
-  445  cd Desktop
-  446  cd IT106_ACT1
-  447  exit
-  448  cd Desktop
-  449  cd IT120_ACT1
-  450  git checkout main
-  451  git checkout -b main
-  452  git init
-  453  git checkout main
-  454  git push origin main --force
-  455  git add remote https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
-  456  touch Profile.txt
-  457  touch Education.txt Background.txt Readme.txt Test.py
-  458  nano Profile.txt
-  459  nano Education.txt
-  460  Background.txt
-  461  nano Background.txt
-  462  nano Test.py
-  463  git remote add https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
-  464  git branch -M main
-  465  git remote 
-  466  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
-  467  git branch -M main
-  468  git push -u origin main
-  469  git branch
+  402  git remote -v
+  403  git push origin main --force
+  404  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
+  405  git remote set-url origin https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
+  406  git remote -v
+  407  git push origin main
+  408  git push origin main --force
+  409  git push origin main
+  410  git checkout -b Ken_B1
+  411  nano Profile.txt
+  412  git add .
+  413  nano Profile.txt
+  414  git add Profile.txt
+  415  git commit -m "Updated Profile.txt"
+  416  git push origin Ken_B1
+  417  nano Profile.txt
+  418  git add .
+  419  git add Profile.txt
+  420  git commit -m "Updated Profile.txt"
+  421  git push origin Ken_B1
+  422  git mr -r Ken_B1 *
+  423  git rm -r Ken_B1 *
+  424  git branch -d Ken_B1
+  425  git push origin --delete Ken_B1
+  426  git checkout main
+  427  git add .
+  428  git commit -m
+  429  git commit -m "Initial commit with all files"
+  430  git checkout -b Baldomar_IT120_Act1
+  431  git add . 
+  432  git commit -m "Initial commit with all files"
+  433  git add Profile.txt Education.txt Background.txt Readme.txt Test.py
+  434  git commit -m "Initial commit with all files"
+  435  git psuh -u origin Baldomar_IT120_Act1
+  436  git push -u origin Baldomar_IT120_Act1
+  437  git checkout main
+  438  git add .
+  439  git branch -M main
+  440  git push -u origin main
+  441  git checkout -b Ken_B1
+  442  git checkout -b Ken_Branch1
+  443  git add .
+  444  git add Profile.txt
+  445  nano Profile.txt
+  446  git commit -m "Updated Profile.txt"
+  447  git push -u origin Ken_Branch1
+  448  git push origin --delete Ken_Branch1
+  449  git checkout main
+  450  git push origin --delete Ken_Branch1
+  451  git pull origin main
+  452  git merge Ken_Branch1
+  453  git push origin main
+  454  cd desktop
+  455  cd Ken_IT120
+  456  cd Ken_IT120_Act1
+  457  git init
+  458  touch Profile.txt Education.txt Background.txt Readme.txt Test.py
+  459  nano Profile.txt
+  460  nano Education.txt
+  461  Background.txt
+  462  nano Background.txt
+  463  script -f Readme.txt
+  464  nano Test.py
+  465  git add .
+  466  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT120_Act1.git
+  467  git remote -v
+  468  git add .
+  469  git commit -m "Initial commit with all files"
   470  git branch -M main
   471  git push -u origin main
-  472  git push origin --delete master
-  473  git remote -v
-  474  git checkout -b main
-  475  git branch -M main
+  472  git push origin main --force
+  473  git push -u origin main
+  474  git add .
+  475  git commit -m "Initial commit with all files"
   476  git push -u origin main
-  477  git init
-  478  echo "# main" >> README.md
-  479  git add README.md
-  480  git commit -m "first commit"
-  481  git branch -M main
-  482  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
-  483  git push -u origin main
-  484  git add .
-  485  git commit -m "Initial commit with all files"
-  486  git push -u origin main
-  487  git add .
-  488  history > Readme.txt
-  489  git add Readme.txt
-  490  git commit -m "Updated Readme.txt"
-  491  git push -u origin main
-  492  git checkout -b Ken_Branch1
-  493  nano Profile.txt
-  494  git add .
-  495  git add Profile.txt
-  496  git commit -m "Updated Profile.txt"
-  497  git push -u origin Ken_Branch1
-  498  for file in *; do if ["$file" != "Profile.txt"]; then > "$file"; fi; done
-  499  for file in *; do  if [ "$file" != "Profile.txt" ]; then fi
-  500  for file in *; do  if [ "$file" != "Profile.txt" ]; then
-  501  cd Desktop
-  502  cd IT120_ACT1
-  503  for file in *; do  if [ "$file" != "Profile.txt" ]; then  fi
-  504  for file in *; do if [ "$file" != "Profile.txt" ]; then fi
-  505  for file in *; do  fi [ "$file" != "Profile.txt" ]; then
-  506  for file in *; do  if [ "$file" != "Profile.txt" ]; then    > "$file";  fi; done
-  507  git add .
-  508  git commit -m "Emptied all files except Profile.txt"
-  509  git push origin Ken_Branch1
-  510  history > Readme.txt
+  477  history > Readme.txt
+  478  git add .
+  479  git commit -m "Initial commit with all files"
+  480  git push -u origin main
+  481  git checkout Baldomar_IT120_Act1
+  482  git checkout -b Ken_Branch1
+  483  nano Profile.txt
+  484  git add Profile.txt
+  485  git commit -m "Updated Profile.txt"
+  486  git push -u origin Ken_Branch1
+  487  git push origin Ken_Branch1
+  488  find . -type f ! -name 'Profile.txt' -exec sh -c '> "$0"' {} \;
+  489  git checkout Ken_Branch1
+  490  git checkout Ken_Branch1
+  491  git checkout -b Ken_Branch1
+  492  nano Profile.txt
+  493  git add Profile.txt
+  494  git commit -m "Updated Profile.txt"
+  495  git push origin Ken_Branch1
+  496  git push -u origin Ken_Branch1
+  497  cd Desktop
+  498  cd IT106_ACT1
+  499  exit
+  500  cd Desktop
+  501  cd IT120_ACT1
+  502  git checkout main
+  503  git checkout -b main
+  504  git init
+  505  git checkout main
+  506  git push origin main --force
+  507  git add remote https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
+  508  touch Profile.txt
+  509  touch Education.txt Background.txt Readme.txt Test.py
+  510  nano Profile.txt
+  511  nano Education.txt
+  512  Background.txt
+  513  nano Background.txt
+  514  nano Test.py
+  515  git remote add https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
+  516  git branch -M main
+  517* git remote 
+  518  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
+  519  git branch -M main
+  520  git push -u origin main
+  521  git branch
+  522  git branch -M main
+  523  git push -u origin main
+  524  git push origin --delete master
+  525  git remote -v
+  526  git checkout -b main
+  527  git branch -M main
+  528  git push -u origin main
+  529  git init
+  530  echo "# main" >> README.md
+  531  git add README.md
+  532  git commit -m "first commit"
+  533  git branch -M main
+  534  git remote add origin https://github.com/ItsmeHaru-hub/Baldomar_IT106_Act1.git
+  535  git push -u origin main
+  536  git add .
+  537  git commit -m "Initial commit with all files"
+  538  git push -u origin main
+  539  git add .
+  540  history > Readme.txt
